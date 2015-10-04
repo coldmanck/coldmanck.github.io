@@ -500,7 +500,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* on hover */
-.portfolio-item:hover .overlay {
+.portfolio-item:hover .overlay.plain {
 	opacity: 1;
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
