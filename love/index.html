@@ -359,6 +359,11 @@ $healthy_foods_ruby_func_ary = array_unique($ary);
         <p>&copy; 2016/7/5, by Meng-Jiun Chiou</p>
       </footer>
     </div>
+
+    <iframe width="854" height="480" style="display:none;"  
+      src="https://www.youtube.com/embed/GCgvpwLNvtY?autoplay=1&loop=1&playlist=GCgvpwLNvtY" 
+      frameborder="0" allowfullscreen></iframe>
+
   </body>
 </html>
 
